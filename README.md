@@ -1,5 +1,5 @@
-# ROS-on-Jetson-nano
-### ROS on Jetson nano  task 2 for AI at SmartMethods summer training
+# Install ROS on Jetson-nano
+### Install ROS on Jetson nano  task 2 for AI at SmartMethods summer training
 
 1- Open a new terminal
 
